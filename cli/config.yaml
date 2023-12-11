@@ -1,0 +1,3 @@
+limit: 10
+num-votes: 1000
+base-url: http://localhost:8000
